@@ -1,42 +1,54 @@
-# gita-app-privacy-policy
 Privacy Policy – Bhagavad Gita Daily Shloka App
-This app respects your privacy. Here's what you need to know:
+Your privacy is important to us. This policy explains what data we collect, how we use it, and your rights.
 
-1. Data Collection
+📥 Data We Collect
 We collect and store the following data only on your device:
 
-Your language preference
+Your preferred language
 
 Favorite shlokas
 
-Daily notification settings
+Notification preferences
 
-We do not collect any personal information like name, email, or location.
+We do not collect personal information such as your name, email address, phone number, or precise location.
 
-2. Notifications
-We request your permission to send daily reminder notifications. These are local notifications, and your response (such as tapping a notification) may be used to show you a specific verse.
+🔔 Notifications
+We request your permission to send daily reminder notifications at 6 AM.
+These are delivered using Expo’s push notification service, which requires a unique device token (a technical identifier).
 
-3. Data Usage
-All collected data is used solely for app functionality, such as:
+If you tap on a notification, the app may open a specific shloka (verse) based on the content of the notification.
 
-Showing your favorite shlokas
+⚙️ How We Use the Data
+All data is used solely for app functionality, including:
+
+Displaying your favorite shlokas
 
 Sending daily reminders
 
-Remembering your language choice
+Saving your language and notification preferences
 
-4. Data Sharing
-We do not share your data with anyone. All your information stays on your device.
+We do not use your data for analytics, advertising, or tracking.
 
-5. SDK Usage
-We use the Expo SDK to power the app, which may collect anonymous technical data (e.g. device type, crash logs) to improve app performance. No personal or identifying data is collected.
+🔄 Data Sharing
+We do not share any user data with third parties for marketing or analytics.
 
-6. Your Control
-You can delete app data at any time by:
+However, to deliver push notifications, we use the Expo SDK, which may:
 
-Uninstalling the app, or
+Transmit a unique device identifier to Expo servers
 
-Clearing app storage from your device settings
+Collect anonymous technical logs (e.g., crash reports or device type)
 
-7. Contact Us
-If you have any questions about this policy, email us at: 
+This technical data is used only to improve performance and reliability.
+
+🗑️ Data Control and Deletion
+You can delete all stored data at any time by:
+
+Uninstalling the app
+
+Clearing app data via your device settings
+
+We do not store any data on our own servers.
+
+📬 Contact Us
+If you have any questions or concerns about your data or this privacy policy, feel free to contact us at:
+📧 
