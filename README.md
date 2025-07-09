@@ -51,4 +51,4 @@ We do not store any data on our own servers.
 
 📬 Contact Us
 If you have any questions or concerns about your data or this privacy policy, feel free to contact us at:
-📧 
+📧 gita.appdaily@gmail.com
